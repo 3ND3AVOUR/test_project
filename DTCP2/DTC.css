@@ -1,0 +1,62 @@
+.navbar-brand {
+  font-size: 2vw;
+  font-weight: 600;
+  font-family: Helvetica, sans-serif;
+}
+
+.nav-link {
+  font-size: 1.2vw;
+}
+
+.navbar-nav {
+  padding-right: 1vw;
+}
+
+.nav-item {
+  padding-right: 2vw;
+}
+
+.firstcont {
+  background: url(./photo-1513904178077-6c5730ddd446.jpg);
+  height: 65vw;
+  ;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 65vw;
+  color: white;
+  
+}
+
+.DTC {
+  text-align: center;
+  font-size: 3vw;
+  padding-top: 20vw;
+  text-align: left
+}
+
+.Para {
+  text-align: left;
+  font-size: 1.8vw;
+  color: orange;
+}
+
+.navbar {
+  position: fixed !important;
+  width: 100vw;
+  background: transparent !important;
+  color: white !important;
+}
+
+
+.scont{
+    background: url(./photo-1520891309540-863309442d8a.jpg);
+    height: 65vw;
+
+}
+
+.tcont{
+    background: url(./welsh-corgi-pembroke-g80832cd4b_1920.jpg);
+  height: 65vw;
+}
